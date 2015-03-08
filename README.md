@@ -58,6 +58,8 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [Cross Lingual Textual Entailment (CLTE) Corpus (English-Spanish)](http://www.celct.it/resources.php?id_page=CLTE)
 - [Ngram Frequencies out of Colombia News Corpora](http://ngrams.cavorite.com/datos/)
 - [Sagan Textual Entailment Test Suite](http://www.investigacion.frc.utn.edu.ar/mslabs/~jcastillo/Sagan-test-suite/)
+- [Garcia, Marcos and Pablo Gamallo, 2013 - Portuguese and Spanish biographical relation extraction corpora (Garcia, Marcos and Pablo Gamallo, 2013. Exploring the Effectiveness of Linguistic Knowledge for Biographical Relation Extraction. Natural Language Engineering, CJO2013. doi:10.1017/S1351324913000314.)](http://gramatica.usc.es/~marcos/corpora_nle.tgz)
+- [Garcia, Marcos and Pablo Gamallo, 2014 - Portuguese, Spanish and Galician coreference corpora (Garcia, Marcos and Pablo Gamallo, 2014. Multilingual corpora with coreferential annotation of person entities. In Proceedings of the 9th edition of the Language Resources and Evaluation Conference (LREC 2014), Reykjavik: 3229-3233.)](http://gramatica.usc.es/~marcos/resources/corpora_coref.tar.bz2)
 
 
 ## Misc
