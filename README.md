@@ -59,7 +59,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 
 ## Misc
 
-- [Word2Vec vectors for Spanish Entities](https://github.com/idio/wiki2vec)
+- [Word2Vec vectors for Wikipedia Spanish Articles](https://github.com/idio/wiki2vec)
 - [DBpedia Spanish Entities Titles](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/labels_es.nt.bz2)
 - [DBpedia Spanish Abstracts](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/short_abstracts_es.nt.bz2)
 
