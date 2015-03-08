@@ -7,6 +7,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [Mexican Spanish Speech Recognition DB - 150 Speakers](http://www.speechocean.com/en-ASR-Corpora/631.html)
 - [Mexican Spanish Speech Recognition DB - 299 Speakers](http://www.speechocean.com/en-ASR-Corpora/603.html)
 - [Phonetic Transcriptions of Spanish Pronunciation Lexicon](http://www.speechocean.com/en-Text-Corpora/692.html)
+- [Sphinx Speech Recognition Models](http://www.speech.cs.cmu.edu/sphinx/models/hub4spanish_itesm/)
 
 ## POS TAGGERS
 - [TreeTagger - POSTagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)
