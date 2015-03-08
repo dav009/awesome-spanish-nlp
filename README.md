@@ -14,6 +14,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [Freeling](http://nlp.lsi.upc.edu/freeling/)
 - [ixa-pipe-pos](https://github.com/ixa-ehu/ixa-pipe-pos)
 - [Ruby Snowball Implementation](https://github.com/MaG21/estem)
+- [Spaguetti POSTagger(Based on NLTK +  CESS corpus](https://code.google.com/p/spaghetti-tagger/)
 
 # MLWE
 - [Freeling](http://nlp.lsi.upc.edu/freeling/)
