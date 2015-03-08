@@ -56,6 +56,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [Opinion Mining - User reviews on Cars, Hotels, Washing machines, Books, Cell phones, Music..](https://www.sfu.ca/~mtaboada/research/SFU_Review_Corpus.html)
 - [Cross Lingual Textual Entailment (CLTE) Corpus (English-Spanish)](http://www.celct.it/resources.php?id_page=CLTE)
 - [Ngram Frequencies out of Colombia News Corpora](http://ngrams.cavorite.com/datos/)
+- [Sagan Textual Entailment Test Suite](http://www.investigacion.frc.utn.edu.ar/mslabs/~jcastillo/Sagan-test-suite/)
 
 
 ## Misc
