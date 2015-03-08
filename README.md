@@ -54,6 +54,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [PANACEA- Monolingual Lexica (MWE, Frames, Semantic Classes)](http://panacea-lr.eu/en/info-for-researchers/data-sets/monolingual-lexica/)
 - [Opinion Mining - User reviews on Cars, Hotels, Washing machines, Books, Cell phones, Music..](https://www.sfu.ca/~mtaboada/research/SFU_Review_Corpus.html)
 - [Cross Lingual Textual Entailment (CLTE) Corpus (English-Spanish)](http://www.celct.it/resources.php?id_page=CLTE)
+- [Ngram Frequencies out of Colombia News Corpora](http://ngrams.cavorite.com/datos/)
 
 
 ## Misc
