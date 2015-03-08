@@ -60,6 +60,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [Sagan Textual Entailment Test Suite](http://www.investigacion.frc.utn.edu.ar/mslabs/~jcastillo/Sagan-test-suite/)
 - [Garcia, Marcos and Pablo Gamallo, 2013 - Portuguese and Spanish biographical relation extraction corpora (Garcia, Marcos and Pablo Gamallo, 2013. Exploring the Effectiveness of Linguistic Knowledge for Biographical Relation Extraction. Natural Language Engineering, CJO2013. doi:10.1017/S1351324913000314.)](http://gramatica.usc.es/~marcos/corpora_nle.tgz)
 - [Garcia, Marcos and Pablo Gamallo, 2014 - Portuguese, Spanish and Galician coreference corpora (Garcia, Marcos and Pablo Gamallo, 2014. Multilingual corpora with coreferential annotation of person entities. In Proceedings of the 9th edition of the Language Resources and Evaluation Conference (LREC 2014), Reykjavik: 3229-3233.)](http://gramatica.usc.es/~marcos/resources/corpora_coref.tar.bz2)
+- [COW(Corpora From the Web) Ngram/Annotated People's Name Corpora ](http://hpsg.fu-berlin.de/cow/)
 
 
 ## Misc
