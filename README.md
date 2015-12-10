@@ -1,4 +1,5 @@
-# Awesome Linguistics Resources for Spanish
+# Awesome Linguistics Resources for Spanish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 Curated list of Linguistic Resources for doing Spanish NLP & CL.
 
@@ -9,7 +10,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [Phonetic Transcriptions of Spanish Pronunciation Lexicon](http://www.speechocean.com/en-Text-Corpora/692.html)
 - [Sphinx Speech Recognition Models](http://www.speech.cs.cmu.edu/sphinx/models/hub4spanish_itesm/)
 
-## POS TAGGERS
+## Part of Speech Taggers (POS Taggers)
 - [TreeTagger - POSTagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)
 - [Stanford - POSTagger](http://nlp.stanford.edu/software/tagger.shtml)
 - [Freeling](http://nlp.lsi.upc.edu/freeling/)
@@ -17,10 +18,10 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [Ruby Snowball Implementation](https://github.com/MaG21/estem)
 - [Spaguetti POSTagger(Based on NLTK +  CESS corpus](https://code.google.com/p/spaghetti-tagger/)
 
-# MLWE
+# Multiword Expressions  Extractors (MLWE)
 - [Freeling](http://nlp.lsi.upc.edu/freeling/)
 
-## NER
+## Name Entity Recognition (NER)
 - [OpenNLP - Person/Place/Organization models](http://opennlp.sourceforge.net/models-1.5/)
 - [DBPedia Spotlight](https://github.com/dbpedia-spotlight/dbpedia-spotlight/)
 - [CitiusTagger - Spanish NER and  POSTagger](http://gramatica.usc.es/pln/tools/CitiusTools.html)
@@ -71,3 +72,9 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [DBpedia Spanish Entities Titles](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/labels_es.nt.bz2)
 - [DBpedia Spanish Abstracts](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/short_abstracts_es.nt.bz2)
 - [Conshuga - Galician Verb conjugator](http://gramatica.usc.es/pln/tools/conjugador/download.html)
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [David Przybilla](http://alejandro.pictures) has waived all copyright and related or neighboring rights to this work.
