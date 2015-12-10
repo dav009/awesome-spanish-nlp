@@ -29,7 +29,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 ## Corpora
 
 ### Shared tasks
-- [ Exploiting Parallel Texts for Statistical  Machine Translation -  NAACL 2006 in New York City](http://www.statmt.org/wmt06/shared-task/)
+- [Exploiting Parallel Texts for Statistical  Machine Translation -  NAACL 2006 in New York City](http://www.statmt.org/wmt06/shared-task/)
 - [CoNLL-2009 Shared Task: Syntactic and Semantic Dependencies in Multiple Languages](http://ufal.mff.cuni.cz/conll2009-st/trial-data.html)
 - [Quality Estimation (Spanish - English) WMT13](http://www.quest.dcs.shef.ac.uk/wmt13_qe.html)
 - [ ACL 2010 in Uppsala - Shared Task: Machine Translation for European Languages](http://www.statmt.org/wmt10/translation-task.html)
@@ -72,6 +72,10 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [DBpedia Spanish Entities Titles](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/labels_es.nt.bz2)
 - [DBpedia Spanish Abstracts](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/short_abstracts_es.nt.bz2)
 - [Conshuga - Galician Verb conjugator](http://gramatica.usc.es/pln/tools/conjugador/download.html)
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## License
 
