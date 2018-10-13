@@ -3,6 +3,9 @@
 
 Curated list of Linguistic Resources for doing Spanish NLP & CL.
 
+# Clustering
+- [Multilingual Latent Dirichlet Allocation LDA](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA)
+
 # Speech
 
 - [Mexican Spanish Speech Recognition DB - 150 Speakers](http://www.speechocean.com/en-ASR-Corpora/631.html)
