@@ -68,7 +68,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [COW(Corpora From the Web) Ngram/Annotated People's Name Corpora ](http://hpsg.fu-berlin.de/cow/)
 - [Wikicorpus- Portion of 2006's wikipedia annotated with WordNet Synsets and POS](http://www.cs.upc.edu/~nlp/wikicorpus/)
 - [Spanish Billion Words Corpus with word2vec Embeddings](http://crscardellino.me/SBWCE/)
-- [Compilation of Spanish Unannotated Corpora] (https://github.com/josecannete/spanish-unannotated-corpora)
+- [Compilation of Spanish Unannotated Corpora](https://github.com/josecannete/spanish-unannotated-corpora)
 
 
 ## Misc
@@ -77,9 +77,9 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [DBpedia Spanish Entities Titles](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/labels_es.nt.bz2)
 - [DBpedia Spanish Abstracts](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/short_abstracts_es.nt.bz2)
 - [Conshuga - Galician Verb conjugator](http://gramatica.usc.es/pln/tools/conjugador/download.html)
-- [Spanish Word Embeddings Computed with Different Methods and from Different Corpora] (https://github.com/dccuchile/spanish-word-embeddings)
-- [Spanish Word Embeddings Computed from Large Corpora and Different Sizes Using fastText] (https://github.com/BotCenter/spanishWordEmbeddings)
-- [Spanish Sentence Embeddings Computed from Large Corpora Using sent2vec] (https://github.com/BotCenter/spanishSent2Vec)
+- [Spanish Word Embeddings Computed with Different Methods and from Different Corpora](https://github.com/dccuchile/spanish-word-embeddings)
+- [Spanish Word Embeddings Computed from Large Corpora and Different Sizes Using fastText](https://github.com/BotCenter/spanishWordEmbeddings)
+- [Spanish Sentence Embeddings Computed from Large Corpora Using sent2vec](https://github.com/BotCenter/spanishSent2Vec)
 
 ## Contribute
 
