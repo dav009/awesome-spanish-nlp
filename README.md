@@ -77,9 +77,9 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [DBpedia Spanish Entities Titles](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/labels_es.nt.bz2)
 - [DBpedia Spanish Abstracts](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/short_abstracts_es.nt.bz2)
 - [Conshuga - Galician Verb conjugator](http://gramatica.usc.es/pln/tools/conjugador/download.html)
-- [Spanish word embeddings computed with different methods and from different corpora] (https://github.com/dccuchile/spanish-word-embeddings)
-- [Spanish Word Embeddings computed from large corpora and different sizes using fastText] (https://github.com/BotCenter/spanishWordEmbeddings)
-- [Spanish Sentence Embeddings computed from large corpora using sent2vec] (https://github.com/BotCenter/spanishSent2Vec)
+- [Spanish Word Embeddings Computed with Different Methods and from Different Corpora] (https://github.com/dccuchile/spanish-word-embeddings)
+- [Spanish Word Embeddings Computed from Large Corpora and Different Sizes Using fastText] (https://github.com/BotCenter/spanishWordEmbeddings)
+- [Spanish Sentence Embeddings Computed from Large Corpora Using sent2vec] (https://github.com/BotCenter/spanishSent2Vec)
 
 ## Contribute
 
