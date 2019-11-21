@@ -68,6 +68,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [COW(Corpora From the Web) Ngram/Annotated People's Name Corpora ](http://hpsg.fu-berlin.de/cow/)
 - [Wikicorpus- Portion of 2006's wikipedia annotated with WordNet Synsets and POS](http://www.cs.upc.edu/~nlp/wikicorpus/)
 - [Spanish Billion Words Corpus with word2vec Embeddings](http://crscardellino.me/SBWCE/)
+- [OSCAR or Open Super-large Crawled ALMAnaCH coRpus Spanish subset](https://traces1.inria.fr/oscar/) 
 
 
 ## Misc
