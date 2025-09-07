@@ -41,6 +41,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [SAB Corpus (Spanish Corpus for Sentiment Analysis towards Brands)](http://sabcorpus.linkeddata.es/)
 
 ### Corpora
+- [ACTIV-ES: a comparable, cross-dialect corpus of ‘everyday’ Spanish from Argentina, Mexico, and Spain](https://github.com/francojc/activ-es)
 - [Multilingual Aligned Annotated Corpus (CRATER)](http://catalog.elra.info/product_info.php?products_id=636)
 - [UAM Treebank - 1,500 syntactically annotated sentences extracted from newspapers (El País Digital and Compra Maestra](http://elvira.lllf.uam.es/~sandoval/UAMTreebank.html)
 - [POSTagged/syntactic dependencies - European Corpus Initiative Multilingual Corpus I ](http://www.elsnet.org/resources/eciCorpus.html)
